@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>first program in html</title>
+    </head>
+    <body>
+    <main>
+        <del>
+     <h1 style="background-color: rgb(86, 74, 74);">hello world</h1><hr>
+    </del>
+        <p  style="background-color: burlywood">Pakistan has been reeling under a massive economic crisis with the country's <br> rupee recording a historic low of 275 to the US dollar, inflation <br>rising to over 27 per cent and foreign exchange <br>reserves dropping to the lowest level since 1998<br> at around USD 3 billion which is not enough<br> even to cover a month's imports.</p><hr>
+        <pre style="background-color: rgb(185, 72, 72)",>i am bhavya</pre>
+        <sub style="font-size: 50;">The name Valentine comes from a Latin word meaning “strength.” </sub>
+<area style="font-size: 100;">49
+<abbr>HTML</abbr>hyper text mark up language</p>
+<q style="color: red;">Valentine defied the emperor's orders and secretly married couples to spare the husbands from war</q>
+<ol type="I">
+    <li>Solid</li>
+    <li>board</li>
+    <li>fire</li>
+</ol>
+<form>
+    <label for="fname">Firstname:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">LastName:</label><br>
+    <input type="text" id="lname" name="lname"><br>
+    <input type="submit" value="submit"><br>
+    <label for="first">1 year</label><br>
+    <input type="radio" id="first" name="first" value=""> 
+</form>
+    </main>
+     </body>   
+</html>
